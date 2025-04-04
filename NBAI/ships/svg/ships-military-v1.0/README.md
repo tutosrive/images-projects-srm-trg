@@ -1,5 +1,13 @@
-# CDN LINKS
+# CDN LINKS  
 
-| File Name | Link |
-| --------- | ---- |
-|
+| File Name | Link | IMG |  
+| --------- | ---- | --- |  
+| ship1-35.svg | [CDN LINK](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship1-35.svg) | ![Image](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship1-35.svg) |  
+| ship2-411.svg | [CDN LINK](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship2-411.svg) | ![Image](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship2-411.svg) |  
+| ship3-23.svg | [CDN LINK](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship3-23.svg) | ![Image](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship3-23.svg) |  
+| ship4-475.svg | [CDN LINK](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship4-475.svg) | ![Image](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship4-475.svg) |  
+| ship5-submarine.svg | [CDN LINK](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship5-submarine.svg) | ![Image](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship5-submarine.svg) |  
+| ship6-submarine2.svg | [CDN LINK](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship6-submarine2.svg) | ![Image](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship6-submarine2.svg) |  
+| ship7-15.svg | [CDN LINK](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship7-15.svg) | ![Image](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship7-15.svg) |  
+| ship8-124.svg | [CDN LINK](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship8-124.svg) | ![Image](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship8-124.svg) |  
+| ship9-115.svg | [CDN LINK](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship9-115.svg) | ![Image](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/NBAI/ships/svg/ships-military-v1.0/ship9-115.svg) |  
