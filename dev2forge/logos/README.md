@@ -5,3 +5,4 @@
 | chromolog-v0.2.5.webp | https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/chromolog-v0.2.5.webp | ![img](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/chromolog-v0.2.5.webp) |
 | e-srm-v0.1.0.webp | https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/e-srm-v0.1.0.webp | ![img](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/e-srm-v0.1.0.webp) |
 | sqlazo-v0.2.0.webp | https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/sqlazo-v0.2.0.webp | ![img](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/sqlazo-v0.2.0.webp) |
+| pdf2wordx-v2.1.2.webp | https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/pdf2wordx-v2.1.2.webp | ![img](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/pdf2wordx-v2.1.2.webp) |
