@@ -1,0 +1,7 @@
+| File | Link | Preview |
+| :--: | :--: | :--: |
+| bridgex-v0.1.0.webp | https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/bridgex-v0.1.0.webp | ![img](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/bridgex-v0.1.0.webp) |
+| chromologger-v0.1.9.webp | https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/chromologger-v0.1.9.webp | ![img](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/chromologger-v0.1.9.webp) |
+| chromolog-v0.2.5.webp | https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/chromolog-v0.2.5.webp | ![img](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/chromolog-v0.2.5.webp) |
+| e-srm-v0.1.0.webp | https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/e-srm-v0.1.0.webp | ![img](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/e-srm-v0.1.0.webp) |
+| sqlazo-v0.2.0.webp | https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/sqlazo-v0.2.0.webp | ![img](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@main/dev2forge/logos/sqlazo-v0.2.0.webp) |
