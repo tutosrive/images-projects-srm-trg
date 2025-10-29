@@ -1,0 +1,1 @@
+404-yellow1.gif => [GIF](https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@8e7b472fd1f206879390967a4a10b816251c8307/others/404-yellow1.gif) => <img src="https://cdn.jsdelivr.net/gh/tutosrive/images-projects-srm-trg@8e7b472fd1f206879390967a4a10b816251c8307/others/404-yellow1.gif" width="40"/>
